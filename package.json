@@ -1,0 +1,21 @@
+{
+  "name": "alum-pink-theme",
+  "displayName": "alum pink theme",
+  "description": "good theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alum Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Alum Pink-color-theme.json"
+      }
+    ]
+  }
+}
